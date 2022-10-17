@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Quotes</string>
+    <string name="search_hint">Type Something Here</string>
+    <string name="retry">Retry</string>
+    <string name="no_data">No Data available</string>
+    <string name="network_error">Please check your internet connection</string>
+    <string name="something_wrong">Something went wrong</string>
+    <string name="random_quote">Random Quote</string>
+    <string name="browse_quotes">Browse Quotes</string>
+    <string name="quote_details">Quote Details</string>
+
+    <string name="header_login">Login Details</string>
+    <string name="header_sign_up">Sign Up Details</string>
+    <string name="username_email">Username or Email</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+
+    <string name="password">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="sign_up">SIGN UP</string>
+
+    <string name="sign_up_cta">No Account! Click here for Signup</string>
+    <string name="login_up_cta">I have an Account! Click here for Login</string>
+    <string name="alert">Alert!</string>
+    <string name="ok">OK</string>
+    <string name="cancel">CANCEL</string>
+    <string name="username_validation">Please enter username</string>
+    <string name="password_validation">Please enter password</string>
+    <string name="password_length_validation">Password should be of minimum 5 characters</string>
+    <string name="login_success">Logged-in successfully.</string>
+    <string name="email_validation">Please enter a valid email</string>
+    <string name="register_success">Registered successfully.</string>
+    <string name="logout_alert">Are you sure you want to logout</string>
+    <string name="logout_success">Logged-out successfully.</string>
+    <string name="na">NA</string>
+    <string name="author">"Author - "</string>
+    <string name="tags">"Tags : "</string>
+    <string name="copied">Copied!</string>
+    <string name="fav_count">"Favourite Count : "</string>
+    <string name="upvote_count">"Upvote Count : "</string>
+    <string name="down_vote_count">"Down Count : "</string>
+
+</resources>
